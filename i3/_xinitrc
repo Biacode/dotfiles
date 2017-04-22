@@ -1,0 +1,2 @@
+export PATH=$PATH:/home/arthur/Install/idea/bin
+export PATH=$PATH:/home/arthur/Install/elasticsearch-1.5.2/bin

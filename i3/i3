@@ -1,0 +1,21 @@
+# The i3 basic configurations
+sudo apt-get install thunar
+sudo apt-get install gnome-icon-theme
+
+# gtk theme
+https://github.com/horst3180/arc-theme
+
+# icons
+https://snwh.org/moka
+
+# dmenu alternative
+sudo apt-get install rofi
+
+# opacity
+sudo apt-get install compton
+
+# i3 blocks
+sudo apt-get install i3blocks
+
+# pulse audio controll
+sudo apt-get install pavucontrol
